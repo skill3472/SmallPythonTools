@@ -36,3 +36,7 @@ Parent Directory/
 ├─ Leah.pdf -> C.pdf
 ├─ Abel.pdf -> A.pdf
 ```
+
+## DiscordLetters.py
+is a tool for transforming text into Discord emojis. Supported characters are the ascii alphabet, question mark and exclamation point.
+Just run DiscordLetters.py and type in the text you want to use.
